@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome!
-======
+-------
 
 My name is Jenna Landy. I am an undergraduate in the [Department of Psychology](https://psychology.cornell.edu/undergraduate) at the [Cornell University](https://www.cornell.edu) [College of Human Ecology](https://www.human.cornell.edu). I primarily work with [Dr. Robert J. Sternberg](https://www.human.cornell.edu/people/rjs487).
 
