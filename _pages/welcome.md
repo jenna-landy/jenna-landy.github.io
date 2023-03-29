@@ -24,5 +24,7 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
+<pre>
 [new rochelle, ny.  lakewood, pa.  ithaca, ny.  florence, it.]   
 [figure skating.  skiing.  sitcoms.  stand-up comedy.  [mediocre melodies](https://mediocremelodies.com).]
+</pre>
