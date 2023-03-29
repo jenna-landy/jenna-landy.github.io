@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+-------
+
 My name is Jenna Landy. I'm a PhD student in the Social Psychology program at New York University. I primarily work with Dr. Emily Balcetis in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com).
 
 -------
