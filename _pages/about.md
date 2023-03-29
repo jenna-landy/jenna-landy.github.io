@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
--------
+My name is Jenna Landy. I'm a PhD student in the Social Psychology program at New York University. I primarily work with Dr. Emily Balcetis in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com).
 
-My name is Jenna Landy. I am an undergraduate in the [Department of Psychology](https://psychology.cornell.edu/undergraduate) at the [Cornell University](https://www.cornell.edu) [College of Human Ecology](https://www.human.cornell.edu). I primarily work with [Dr. Robert J. Sternberg](https://www.human.cornell.edu/people/rjs487).
+-----
 
-In the Fall of 2023, I will begin my PhD studies in the [Social Psychology](https://as.nyu.edu/departments/psychology/graduate/phd-social-psychology.html) program at [New York University](https://www.nyu.edu). I will primarily work with [Dr. Emily Balcetis](https://as.nyu.edu/faculty/emily-balcetis.html) in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com). 
+When we interact with others, we never have the full story. No matter how much we sometimes wish to, we can’t access others’ mental states — their thoughts, emotions, desires, *intentions*. Yet intentions are central to so many of the (social, moral, legal) judgments we make each day. So, as we navigate the social world, we rely on our ability to generate *inferences* about others’ intentions, by observing their behavior. 
 
+How do we synthesize the mass of social information around us in order to make accurate inferences about others’ intentions? How does *what we see* influence these inferences, and conversely, how do our inferences influence what we see? How are these inferences biased — by our motivations, expectations, social relationships, and obligations — for better or for worse?
