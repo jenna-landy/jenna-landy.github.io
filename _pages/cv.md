@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[cv](http://academicpages.github.io/files/paper1.pdf)
