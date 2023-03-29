@@ -1,10 +1,8 @@
 ---
-title: "Archive Layout with Content"
+title: "markup-demo"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /markup-demo/
 ---
-
-A variety of common markup showing how the theme styles them.
 
 # Header one
 
