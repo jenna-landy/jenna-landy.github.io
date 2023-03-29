@@ -20,4 +20,4 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
-[cv](http://jenna-landy.github.io/files/cv.pdf)
+[[cv]](http://jenna-landy.github.io/files/cv.pdf)
