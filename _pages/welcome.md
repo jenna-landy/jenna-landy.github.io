@@ -24,10 +24,6 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
-i've spent a lot of time in
+i've spent a lot of time in: [new rochelle, ny | lakewood, pa | ithaca, ny | florence, it]
 
-new rochelle, ny | lakewood, pa | ithaca, ny | florence, it
-
-i love talking about
-
-figure skating | skiing | sitcoms | stand-up comedy 
+i love talking about: [figure skating | skiing | sitcoms | stand-up comedy]
