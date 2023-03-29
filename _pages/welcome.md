@@ -24,12 +24,13 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
-# more about me
-
+### more about me
 ------
 
 i've spent a lot of time in:
+
 new Rochelle, ny | lakewood, pa | ithaca, ny | florence, it
 
 i love talking about:
+
 figure skating | skiing | sitcoms | stand-up comedy 
