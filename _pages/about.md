@@ -18,4 +18,4 @@ How do we synthesize the mass of social information around us in order to make a
 
 -------
 
-[jennalandy@nyu.edu](jennalandy@nyu.edu)
+jennalandy@nyu.edu
