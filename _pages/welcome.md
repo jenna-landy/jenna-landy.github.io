@@ -24,5 +24,5 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
-I've spent a lot of time in: {new rochelle, ny | lakewood, pa | ithaca, ny | florence, it}   
-I'm always talking about: {figure skating | skiing | sitcoms | stand-up comedy | [mediocre melodies](https://mediocremelodies.com)}
+I've spent a lot of time in: [new rochelle, ny // lakewood, pa // ithaca, ny // florence, it]   
+I'm always talking about: [figure skating // skiing // sitcoms // stand-up comedy // [mediocre melodies](https://mediocremelodies.com)]
