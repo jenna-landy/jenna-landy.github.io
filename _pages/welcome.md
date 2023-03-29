@@ -12,6 +12,8 @@ redirect_from:
 
 My name is Jenna Landy. I'm a PhD student in the Social Psychology program at New York University. I primarily work with Dr. Emily Balcetis in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com).
 
+[[cv]](http://jenna-landy.github.io/files/cv.pdf)
+
 -------
 
 When we interact with others, we never have the full story. No matter how much we sometimes wish to, we can’t access others’ mental states — their thoughts, emotions, desires, *intentions*. Yet intentions are central to so many of the (social, moral, legal) judgments we make each day. So, as we navigate the social world, we rely on our ability to generate *inferences* about others’ intentions by observing their behavior. 
@@ -20,10 +22,5 @@ How do we synthesize the mass of social information around us in order to make a
 
 ------
 
-[[cv]](http://jenna-landy.github.io/files/cv.pdf)
-
-------
-
-i've spent a lot of time in: [new rochelle, ny | lakewood, pa | ithaca, ny | florence, it]
-
-i love talking about: [figure skating | skiing | sitcoms | stand-up comedy]
+I've spent a lot of time in: [new rochelle, ny | lakewood, pa | ithaca, ny | florence, it]
+I'm always talking about: [figure skating | skiing | sitcoms | stand-up comedy | [mediocre melodies](https://mediocremelodies.com)]
