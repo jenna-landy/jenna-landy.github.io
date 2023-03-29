@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[cv 2023](http://academicpages.github.io/files/cv.pdf)
+[2023](http://academicpages.github.io/files/cv.pdf)
