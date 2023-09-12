@@ -7,7 +7,7 @@ author_profile: true
 
 -------
 
-Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (forthcoming). [Produced and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://psyarxiv.com/jc3hk/).
+Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (forthcoming). [Produced and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://www.sciencedirect.com/science/article/pii/S0010027723002433?dgcid=author).
 
 Sternberg, R. J., **Landy, J.**, & Long, J. (forthcoming). Measuring adaptive intelligence of the gifted through critical problem analysis.
 
