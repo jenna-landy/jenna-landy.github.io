@@ -13,7 +13,7 @@ Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2023). 
 
 -------
 
-Sternberg, R. J., **Landy, J.**, & Long, J. (forthcoming). Measuring adaptive intelligence of the gifted through critical problem analysis. Roeper Review.
+Sternberg, R. J., **Landy, J.**, & Long, J. (2024). [Measuring adaptive intelligence of the gifted through critical problem analysis](https://www.tandfonline.com/doi/full/10.1080/02783193.2024.2357543). Roeper Review.
 
 Sternberg, R. J., Chowkase, A., Parra-Martinez, F. A., & **Landy, J.** (2022). [Criterion-referenced assessment of
 intelligence as adaptation to the environment: Is it possible, plausible, or practical?](https://web.archive.org/web/20230918164951/https://www.mdpi.com/2079-3200/10/3/57). Journal of Intelligence.
