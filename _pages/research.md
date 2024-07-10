@@ -9,7 +9,7 @@ author_profile: true
 
 Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (forthcoming). People reward others based on their willingness to exert effort.
 
-Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2023). [Produced and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://web.archive.org/web/20230918164616/https://www.sciencedirect.com/science/article/abs/pii/S0010027723002433?dgcid=author). Cognition.
+Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2023). [Actual and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://web.archive.org/web/20230918164616/https://www.sciencedirect.com/science/article/abs/pii/S0010027723002433?dgcid=author). Cognition.
 
 -------
 
