@@ -7,7 +7,13 @@ author_profile: true
 
 -------
 
-Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (forthcoming). People reward others based on their willingness to exert effort.
+**Landy, J.** & Balcetis, E. (under review). Seeing what we want, not what we need: Drawing on Construal Level to
+resolve the paradox of motivated visual perception. In Fishbach, A., Fujita, K., & Liberman, N. (eds.) The psychological
+quest for meaning: a festschrift for Yaacov Trope. Guilford Press.
+
+-------
+
+Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (under review). People reward others based on their willingness to exert effort.
 
 Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2023). [Actual and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://web.archive.org/web/20230918164616/https://www.sciencedirect.com/science/article/abs/pii/S0010027723002433?dgcid=author). Cognition.
 
