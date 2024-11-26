@@ -7,13 +7,11 @@ author_profile: true
 
 -------
 
-**Landy, J.** & Balcetis, E. (under review). Seeing what we want, not what we need: Drawing on Construal Level to
-resolve the paradox of motivated visual perception. In Fishbach, A., Fujita, K., & Liberman, N. (eds.) The psychological
-quest for meaning: a festschrift for Yaacov Trope. Guilford Press.
+**Landy, J. P.**, Daley, J. S., & Balcetis, E. (in press). Making meaning through motivated perception: The role of construal. In Fishbach, A., Fujita, K., & Liberman, N. (eds.) The psychological quest for meaning: a festschrift for Yaacov Trope. Guilford Press.
 
 -------
 
-Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (under review). People reward others based on their willingness to exert effort.
+Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2025). [People reward others based on their willingness to exert effort](https://doi.org/10.1016/j.jesp.2024.104699). Journal of Experimental Social Psychology.
 
 Xiang, Y., **Landy, J.**, Cushman, F. A., Vélez, N., & Gershman, S. J. (2023). [Actual and counterfactual effort contribute to responsibility attributions in collaborative tasks](https://web.archive.org/web/20230918164616/https://www.sciencedirect.com/science/article/abs/pii/S0010027723002433?dgcid=author). Cognition.
 
