@@ -10,7 +10,7 @@ redirect_from:
 
 -------
 
-I'm a PhD student in the Social Psychology program at New York University. I primarily work with Dr. Emily Balcetis in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com).
+I'm a PhD student in the Social Psychology program at New York University. I primarily work with Dr. Emily Balcetis in the [Social Perception, Action, and Motivation Lab](https://www.spamlabresearch.com). I'm also a member of the [WE-Search](https://www.ashwinia.com/about) lab with Dr. Ashwini Ashokkumar.
 
 -------
 
