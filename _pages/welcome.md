@@ -25,6 +25,6 @@ How do we synthesize the mass of social information around us in order to make a
 
 -------
 
-new rochelle, ny &nbsp; &nbsp; &nbsp; lakewood, pa &nbsp; &nbsp; &nbsp; ithaca, ny &nbsp; &nbsp; &nbsp; florence, it &nbsp; &nbsp; &nbsp; boston, ma &nbsp; &nbsp; &nbsp; new york, ny &nbsp; &nbsp; &nbsp; vienna, at
+new rochelle, ny &nbsp; &nbsp; &nbsp; lakewood, pa &nbsp; &nbsp; &nbsp; ithaca, ny &nbsp; &nbsp; &nbsp; florence, it &nbsp; &nbsp; &nbsp; new york, ny &nbsp; &nbsp; &nbsp; vienna, at
 
 -------
