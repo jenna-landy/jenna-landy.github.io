@@ -7,7 +7,7 @@ author_profile: true
 
 -------
 
-**Landy, J. P.**, Daley, J. S., & Balcetis, E. (2025). Making meaning through motivated perception: The role of construal. In Fishbach, A., Fujita, K., & Liberman, N. (eds.) The psychological quest for meaning (festschrift for Yaacov Trope). Guilford Press.
+**Landy, J. P.**, Daley, J. S., & Balcetis, E. (2025). [Making meaning through motivated perception: The role of construal. In Fishbach, A., Fujita, K., & Liberman, N. (eds.) The psychological quest for meaning (festschrift for Yaacov Trope).](https://www.guilford.com/books/The-Psychological-Quest-for-Meaning/Fujita-Fishbach-Liberman/9781462558568/contents?srsltid=AfmBOorb8cTeO43K8XIqcGmkq6ha3oBnAru6QRIs1ZiDDJCE0F2FWwEz) Guilford Press.
 
 -------
 
